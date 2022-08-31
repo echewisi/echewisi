@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @echewisi
-- 👀 I’m interested in ... Game development, deep learning, UI/UX designs
-- 🌱 I’m currently learning ... Python dev and c++ dev
-- 💞️ I’m looking to collaborate on ... Game development projects and AI modules
+- 👀 I’m interested in ... AI dev, django development
+- 🌱 I’m currently learning ... Python  and c++
+- 💞️ I’m looking to collaborate on ... AI projects, backend projects, and data science projects
 - 📫 How to reach me ... instagram @echewisi
 
 <!---
