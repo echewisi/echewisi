@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/jechewisi" target="blank"><img src="https://img.shields.io/twitter/follow/jechewisi?logo=twitter&style=for-the-badge" alt="jechewisi" /></a> </p>
 
-- 🌱 I’m currently learning **node.js, Django, react.js**
+
 
 - 📫 How to reach me **josephechewisi@gmail.com**
 
