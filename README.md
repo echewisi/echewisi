@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Joseph Echewisi</h1>
-<h3 align="center">Adaptive software engineer (Fullstack-backend heavy|Machine learning)</h3>
+<h3 align="center">Adaptive software engineer (backend engineer|product architect)</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=echewisi&label=Profile%20views&color=0e75b6&style=flat" alt="echewisi" /> </p>
